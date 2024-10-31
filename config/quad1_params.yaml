@@ -1,0 +1,46 @@
+mass: 1.25
+arm_length: 0.265
+motor_height: 0.05
+
+ixx: 0.0232
+iyy: 0.0232
+izz: 0.0468
+
+x: 0.0
+y: 0.0
+z: 0.0
+
+vx: 1.0
+vy: 0.0
+vz: 1.0
+
+phi: 0.0
+theta: 0.0
+psi: 0.0
+
+p: 0.0
+q: 0.0
+r: 1.0
+
+# Inputs
+T_sigma: 13.2625  # Hover at 12.2625
+M1: 0.0
+M2: 0.0
+M3: 0.0
+
+# PID Gains
+kp_phi: 0.0
+ki_phi: 0.0
+kd_phi: 0.0
+
+kp_theta: 0.0
+ki_theta: 0.0
+kd_theta: 0.0
+
+kp_psi: 0.0
+ki_psi: 0.0
+kd_psi: 0.0
+
+kp_zdot: 0.0
+ki_zdot: 0.0
+kd_zdot: 0.0
